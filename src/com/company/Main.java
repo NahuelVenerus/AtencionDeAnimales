@@ -12,15 +12,16 @@ public class Main {
         System.out.println(vaca);
 
  */
-
-    Cerdo cerdo = new Cerdo(100, true, false);
-        System.out.println(cerdo);
-        cerdo.vacunar();
-        System.out.println(cerdo);
-        cerdo.comer(300);
-        System.out.println(cerdo);
-        cerdo.beber();
-        System.out.println(cerdo);
-
+//
+//    Cerdo cerdo = new Cerdo(100, true, false);
+//        System.out.println(cerdo);
+//        cerdo.vacunar();
+//        System.out.println(cerdo);
+//        cerdo.comer(300);
+//        System.out.println(cerdo);
+//        cerdo.beber();
+//        System.out.println(cerdo);
+//
+//    }
     }
 }
